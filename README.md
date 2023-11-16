@@ -9,4 +9,4 @@ break    +
   len    -
 8. vai pythona valodā mainīgā nosaukums ir jādeklarē- nē   -
 9. mainīgajam aita piešķirt vērtību virkni kaste- aita="kaste"   -
-10. abu veidu komentāri "" ""  # 
+10. abu veidu komentāri "" ""  # +
