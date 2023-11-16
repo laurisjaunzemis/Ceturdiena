@@ -9,4 +9,4 @@ break
  return
 8. vai pythona valodā mainīgā nosaukums ir jādeklarē- jā
 9. mainīgajam aita piešķirt vērtību virkni kastw
-10. abu veidu komentāri "" ""  #
+10. abu veidu komentāri "" ""  # 
